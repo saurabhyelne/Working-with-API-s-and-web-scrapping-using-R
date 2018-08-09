@@ -1,7 +1,6 @@
 
 library(httr)
 library(rvest)
-library(rvest)
 library(xml2)
 
 
